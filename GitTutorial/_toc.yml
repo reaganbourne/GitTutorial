@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: GIT_Home
+chapters:
+- file: Git_Tutorial1
+- file: Git_Tutorial2
+- file: Git_Tutorial3
+- file: Git_Tutorial4
+- file: Git_Tutorial5
+- file: Git_Tutorial6
+- file: Git_Tutorial7
+- file: Git_Tutorial8
+- file: Git_Tutorial9
+- file: Git_Tutorial10
+- file: Git_Tutorial11
+- file: Git_Tutorial12
+- file: Git_Tutorial13
+- file: Git_Tutorial14
+- file: Git_Tutorial15
+
